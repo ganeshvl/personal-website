@@ -173,8 +173,8 @@ html, body {
   margin: 0 -8px -8px -8px;
 }
 .avatar {
-    width: 128px;
-    height: 128px;
+    width: 144px;
+    height: 144px;
     border-radius: 50%;
 }
 .mdl-demo section.section--center .section__text:not(:last-child) {
